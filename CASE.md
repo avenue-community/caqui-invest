@@ -108,7 +108,7 @@ Antes de qualquer linha de código, a spec responde (modelo em [templates/SPEC.m
 3. **Quanto isso move?** Uma estimativa em números, como horas de atendente liberadas, recontato evitado ou tempo de formação reduzido, com a conta à mostra.
 4. **Como a confiança aparece?** O que o cliente vê que o faz acreditar na resposta, e onde está a saída.
 5. **O que fica de fora?** O corte de escopo que permite publicar hoje.
-6. **Quais regras do case vocês tratam?** Quais das doze viram teste, e quais não se aplicam à solução escolhida.
+6. **Como viabilizar esta solução?** Qual seria o próximo passo para a Caqui colocar isso no ar.
 
 ### O que vale para qualquer caminho
 
